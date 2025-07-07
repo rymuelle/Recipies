@@ -1,7 +1,3 @@
-Here's a cleaned-up version of your README with corrected spelling, grammar, formatting, and minor clarity improvements. I also converted the ingredients into a markdown table as requested:
-
----
-
 ## Intro
 
 Essentially, only two things are needed for dough to bake into bread:

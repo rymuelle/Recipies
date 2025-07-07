@@ -97,6 +97,3 @@ There are many ways to improve from here, but these are the basic steps for maki
 **P.S.** This dough base also makes a great pizza crust. Just change the proofing step:
 Instead of forming one boule, divide the dough into 2 or 3 portions and shape each into a small ball. Let them proof before stretching into disks—and you’ve got pizza dough!
 
----
-
-Let me know if you want me to convert this into a printable PDF, web format, or add photos/diagrams.

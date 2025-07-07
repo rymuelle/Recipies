@@ -13,17 +13,17 @@ This recipe is designed to meet the above criteria in a minimal way. If done wel
 
 ## Ingredients
 
-| Ingredient                    | Amount |
-| ----------------------------- | ------ |
-| All-purpose or bread flour    | 500 g  |
-| Water                         | 325 g  |
-| Salt                          | 10 g   |
-| Yeast (instant or active dry) | 6 g    |
+| Ingredient                    | Amount | Percentage |
+| ----------------------------- | ------ | ---------- |
+| All-purpose or bread flour    | 500 g  | 100%       |
+| Water                         | 325 g  | 65%        |
+| Salt                          | 10 g   | 2%         |
+| Yeast (instant or active dry) | 5 g    | 1%         |
 
 ### Notes:
 
 1. A high-protein (read: gluten) flour is ideal. Recommended: King Arthur Flour (KAF). Bread flour has a higher protein content than all-purpose, but KAF all-purpose is high enough.
-2. A key factor in bread is hydration percentage. This bread is at 65% hydration (325 g water / 500 g flour). You could make this bread anywhere from 55% to 85% hydration and get very different, but good, results. 70% is a good default, but 65% is a bit easier to work with.
+2. A key factor in bread is hydration percentage. This bread is at 65% hydration (325 g water / 500 g flour). You could make this bread anywhere from 55% to 85% hydration and get very different, but good, results. 70% is a good default, but 65% is a bit easier to work with. In general, "bakers percentages" are percent of the flour by weight.
 3. Salt is salt. It doesn’t really matter what kind you use, but some people dislike the taste of iodized salt.
 4. Any yeast works. I recommend buying a jar of instant or active dry.
 5. Using a kitchen scale is highly recommended, but you can convert to volume measurements if needed.

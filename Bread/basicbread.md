@@ -89,13 +89,22 @@ The shaping step takes a bit of practice to get right, feel free to play around 
 10. Set two timers: one for 20 minutes, and another for 45 minutes.
 11. After 20 minutes, preheat your oven to 475°F.
 12. After 45 minutes, remove the cloth carefully in case it has stuck to the dough. The dough should be puffier and jigglier than before, but should not deflate when poked. To test the readiness: poke the edge with a wet finger about half a fingertip deep. The indentation should hardly rebound, but also not collapse. If it rebounds, wait another 15 minutes and try again. 
+
+### Baking
+Steaming the bread creates a nice crust. We will emulate that by roughly covering the load with alumium foil. In addition, you can put a dissposable pie tin with water in it next to the bread. This allowes for the outside of the bread to stay moist as it bakes, so that the bread can rise before a crust forms, and the starches will nicely brown. 
 13. [Score the top of the loaf](https://www.youtube.com/shorts/sysFPnbt9zA) with a sharp kitchen knife or bread knife (or, ideally a razor blade/lame). My best tip here is to slice in one smooth motion about 3/4 of an inch deep. 
-14. Bake for 35 minutes. I recomend covering the bread with a bit of alumium foil for the first 25, then removing it for the last 10, but this is not needed. You will know the loaf is done when it is golden brown on the outside and sounds hollow when tapped. Alternatively, when the internal temperature is > 190F. 
+14. Bake for 35 minutes. I recomend covering the bread with a bit of alumium foil for the first 25 to imitate steaming the bread, then removing it for the last 10 to develop a better crush, but this is not needed. You will know the loaf is done when it is golden brown on the outside and sounds hollow when tapped. Alternatively, when the internal temperature is >190F. 
 15. Let the bread rest for 30 minutes. It's still cooking a bit and will be damp on the inside. 
 
 ---
 
 It should rise beautifully in the oven and develop a nice golden-brown crust!
+
+Basic troubleshooting:
+
+1. If the bread rips the crust, it needs to proof for longer (underproofed).
+2. If the bread collapses, it proofed too long (overproofed).
+3. If the bread hardly rises at all and is dense, pale, and gummy, it needed way more air in it. 
 
 There are many ways to improve from here, but these are the basic steps for making good bread.
 
